@@ -1,32 +1,26 @@
-# sushi-Restro
+# Sushi Restro
+# Table of contents
+- [Sushi Restro](#sushi-restro)
+- [Table of contents](#table-of-contents)
+- [General info](#general-info)
+- [Code Style](#code-style)
+- [Technology](#technology)
+- [Status](#status)
+- [Create By](#create-by)
 
-
-Table of contents
-FitnessApp
-Table of contents
-General info
-Code Style
-Technology
-Status
-Create By
-General info
-
-This is a flexbox and css postioning project.
-
-Code Style
+# General info
+css flex and positiong. 
+# Code Style
 Standard
 
-Technology
+# Technology
 The following technology have been used for this project:
+1. HTML
+2. CSS
 
-HTML
-
-CSS
-
-Status
-Project status: Finished
-
-Create By
-Created by Mahtab Salahshoor @2021
+# Status
+Project status: completed.
+# Create By
+Mahtab Salahshoor @2021
 
 i[](Screen%20Shot%202021-12-02%20at%2011.09.00%20PM.png)
