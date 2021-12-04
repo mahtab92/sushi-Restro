@@ -18,22 +18,18 @@ video {
   }
 .container{
     position: fixed;
-    width: 1200px;
-    height: 500px;
-    top: 10%;
-    left: 30%;
-    margin-top: -100px; 
-    margin-left: -250px;
-
+    overflow: hidden;
+    top: 0;
+    width: 100%;
 }
 .child{
     text-align: center;
     font-weight: bold;
     font-size: 30px;
-    border: 5px solid orange;
-    padding: 40px;
+    border: 5px solid rgb(41, 220, 233);
+    padding: 50px;
     margin: 20px;
-    background-color: linear-gradient(to left,black, white, rgb(34, 223, 230)); 
+    background:linear-gradient(to left,black, white, rgb(34, 223, 230)); 
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
