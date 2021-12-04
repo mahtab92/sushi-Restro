@@ -29,10 +29,7 @@ video {
     border: 5px solid rgb(41, 220, 233);
     padding: 50px;
     margin: 20px;
-    background:linear-gradient(to left,black, white, rgb(34, 223, 230)); 
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-position: center;
+    background-image:linear-gradient(to left,black, white, rgb(34, 223, 230)); 
 }
 .container-2{
 display: flex;
