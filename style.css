@@ -33,7 +33,7 @@ video {
     border: 5px solid orange;
     padding: 40px;
     margin: 20px;
-    background-image: url(pictures/bar-gaf7b0d0af_1920.jpg);
+    background-image: linear-gradient(to left,black, white, rgb(34, 223, 230)); 
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
@@ -68,3 +68,4 @@ img {
     margin-right: -100px;
    
 }
+
